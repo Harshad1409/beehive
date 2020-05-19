@@ -1,0 +1,5 @@
+1. Read Data
+2. Setup Jupyter File 
+3. show data on Jupyter
+4. revise concept of recommendation system
+--- list down further action items
