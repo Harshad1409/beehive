@@ -10,3 +10,8 @@ frequent itemset 3 or more
 
 inputs : Simga
 output :  <item set size> <co-occurance freq> <item 1 id>s
+
+
+---
+FP Growth Algorithm is confusing 
+lets implement first step and see further what we can do.
