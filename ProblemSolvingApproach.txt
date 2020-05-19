@@ -3,3 +3,10 @@
 3. show data on Jupyter
 4. revise concept of recommendation system
 --- list down further action items
+
+what is minimum support
+what is minimum Sigma
+frequent itemset 3 or more
+
+inputs : Simga
+output :  <item set size> <co-occurance freq> <item 1 id>s
